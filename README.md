@@ -25,7 +25,7 @@ I'm Rahul Mansharamani, a self taught developer.
 - 🌱 I’m currently learning **Microservice Architecture**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **anything related to Tech**.
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1-yCQoHSBeBfLCUlTt7D-w9xf1qrIdJqP/view?usp=sharing).
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1-yCQoHSBeBfLCUlTt7D-w9xf1qrIdJqP/view?usp=sharing).
 - ⚡ Fun fact: I love documentaries.
 
 
@@ -37,5 +37,5 @@ I'm Rahul Mansharamani, a self taught developer.
 
 <br />
 
-[linkedin]: https://linkedin.com/in/lordarcadius
-[twitter]: https://twitter.com/lordarcadius
+[linkedin]: https://www.linkedin.com/in/mansharamani-rahul
+[twitter]: https://twitter.com/mansharamani_14
