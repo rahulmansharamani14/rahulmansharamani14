@@ -22,7 +22,7 @@ I'm Rahul Mansharamani, a self taught developer.
 ## About Me
 
 - 🔭 I’m currently growing my knowledge in **Data Structures and Alogorithms**.
-- 🌱 I’m also interested building **Backend services** and operate them in scale.
+- 🌱 I’m also interested in building scalable **Backend services**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **anything related to Tech**.
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1b4eqBgigFBesR2ASzjBRy7SJT6gf2gHI/view?usp=sharing).
