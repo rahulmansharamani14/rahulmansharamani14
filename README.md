@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello Folks 👋
-I'm Rahul Mansharamani, a self taught developer.
+# Hey there! I'm Rahul
 
 ## About Me
 
@@ -28,6 +27,14 @@ I'm Rahul Mansharamani, a self taught developer.
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1b4eqBgigFBesR2ASzjBRy7SJT6gf2gHI/view?usp=sharing).
 - ⚡ Fun fact: I love documentaries.
 
+## Tech Stack
+
+- 💻 &nbsp; C++ | Python
+- 🌐 &nbsp; JavaScript | TypeScript | Node.js | Nest.js 
+- 🛢 &nbsp; MySQL | MongoDB | Firebase | ElasticSearch | Redis
+- 💈 &nbsp; AWS | Azure | Docker | Postman | Terraform
+
+![](https://komarev.com/ghpvc/?username=rahulmansharamani14)
 
 ## Connect with me:
 
