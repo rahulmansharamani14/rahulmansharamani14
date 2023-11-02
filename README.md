@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🛢 &nbsp; MySQL | MongoDB | Firebase | ElasticSearch | Redis
 - 💈 &nbsp; AWS | Azure | Docker | Postman | Terraform
 
-![](https://komarev.com/ghpvc/?username=rahulmansharamani14)
+[![](https://visitcount.itsvg.in/api?id=rahulmansharamani14&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## Connect with me:
 
