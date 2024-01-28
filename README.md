@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m also interested in building scalable **Backend services**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **anything related to Tech**.
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Mnou6suA-0r9-n8QN8vUyL07rkpXbR30/view?usp=sharing).
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/17gLGYloCOJo63uBduboE2tGu_ZKcM2zI/view?usp=sharing).
 - ⚡ Fun fact: I love documentaries.
 
 ## Tech Stack
