@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m also interested in building scalable **Backend services**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **anything related to Tech**.
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1_iFXFrF3Qtuw_sl-Y5-wV-7kJO3PfYZ9/view?usp=sharing).
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1zMxxc3_YAOzFbaCxLC35NEcTdKaszEx1/view?usp=sharing).
 - ⚡ Fun fact: I love documentaries.
 
 ## Tech Stack
@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/mansharamani-rahul
+[linkedin]: https://www.linkedin.com/in/manshara
 [twitter]: https://twitter.com/mansharamani_14
