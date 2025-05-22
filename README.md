@@ -27,14 +27,6 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1zMxxc3_YAOzFbaCxLC35NEcTdKaszEx1/view?usp=sharing).
 - ⚡ Fun fact: I love documentaries.
 
-## Tech Stack
-
-- 💻 &nbsp; C++ | Python
-- 🌐 &nbsp; JavaScript | TypeScript | Node.js | Nest.js 
-- 🛢 &nbsp; MySQL | MongoDB | Firebase | ElasticSearch | Redis
-- 💈 &nbsp; AWS | Azure | Docker | Postman | Terraform
-
-
 
 ## Connect with me:
 
